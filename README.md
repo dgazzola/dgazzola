@@ -27,6 +27,7 @@ I enjoy learning new technologies, collaborating with interesting people and usi
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/ZOLA#7014" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/dgazzola" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/daniel-gazzola/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -38,4 +39,3 @@ I enjoy learning new technologies, collaborating with interesting people and usi
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/dgazzola/gigshare" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dgazzola&repo=gigshare&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
