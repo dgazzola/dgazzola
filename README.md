@@ -9,7 +9,7 @@ I enjoy learning new technologies, collaborating with interesting people and usi
 * 🌍  I'm based in Boston
 * ✉️  You can contact me at [danielrgazzola@gmail.com](mailto:danielrgazzola@gmail.com)
 * 🚀  I'm currently working on [gigshare](http://gigshare.herokuapp.com/)
-* ⚡  In my free time, I'm an electronic music producer, DJ and gamer.
+* ⚡  In my free time I produce music, DJ and play video games with friends.
 
 ### Skills
 
