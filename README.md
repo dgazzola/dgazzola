@@ -4,12 +4,12 @@ Hi 👋 My name is Daniel Gazzola
 Full-Stack Web Developer
 ------------------------
 
-I enjoy learning new technologies, collaborating with interesting people and using my strengths in logical/creative thinking to solve problems. I recently graduated a full-stack web development apprenticeship at Launch Academy. I'm currently looking for a junior developer role with mentorship and plenty of opportunity for continued learning.
+I enjoy learning new technologies, collaborating with interesting people and using my strengths in logical/creative thinking to solve problems. After graduating from Launch Academy's full stack web development bootcamp, I began working as a software engineer at EQ Concepts. During my time there I worked across the stack leveraging technologies such as React, Next, HTML, React Native, CSS and TypeScript to build responsive user web and mobile experiences across multiple platforms. As a result of a lack of funding at EQ Concepts, I am back on the job market. I'm looking for a full stack engineering role where I can contribute to a collaborative, fast-paced team with plenty of room for continued learning and career growth.
 
 * 🌍  I'm based in Boston
 * ✉️  You can contact me at [danielrgazzola@gmail.com](mailto:danielrgazzola@gmail.com)
 * 🚀  I'm currently working as a full-stack developer for [EQConcepts](https://github.com/EQ-Concepts)
-* ⚡  In my free time I produce music, DJ and play video games with friends.
+* ⚡  In my free time I produce, DJ and release music under my artist project ZOLA. I also enjoy playing video games with friends and going to the gym/playing with my cat, Sushi.
 
 ### Skills
 
