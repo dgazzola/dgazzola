@@ -8,7 +8,6 @@ I enjoy learning new technologies, collaborating with interesting people and usi
 
 * 🌍  I'm based in Boston
 * ✉️  You can contact me at [danielrgazzola@gmail.com](mailto:danielrgazzola@gmail.com)
-* 🚀  I'm currently working as a full-stack developer for [EQConcepts](https://github.com/EQ-Concepts)
 * ⚡  In my free time I produce, DJ and release music under my artist project ZOLA. I also enjoy playing video games with friends and going to the gym/playing with my cat, Sushi.
 
 ### Skills
